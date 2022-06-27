@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[home](./) | [CV](./assets/files/CV.pdf) | [Partner](https://www.yusiyi.com)
+[home](./) | [CV](./assets/files/CV.pdf) | [Partner](https://yusiyi.com)
 
 I would like to describe my way in the coming years as a PhD candidate to behavioral and data scientist interested in consumers’ problems. And the core technical foundations would be applied econometrics and advanced data analysis including unstructured ones. 
 
