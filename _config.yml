@@ -2,7 +2,7 @@ title: Guangxin Yang
 logo: /assets/img/Alan.png
 description: Alan's Web Page
 show_downloads: true
-google_analytics:UA-233077999-1
+google_analytics: UA-233077999-1
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
