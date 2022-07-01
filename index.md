@@ -5,9 +5,9 @@ layout: default
  <ul>
  <li><a href="./">Home</a></li>
  <li><a href="./assets/files/CV.pdf">CV</a></li>
+ <li><a href="./teaching.md">Teaching</a></li>
  <li><a href="https://siyiyu.com">Partner</a></li>
  </ul>
-
 
 I would like to describe my way in the coming years as a PhD candidate to behavioral and data scientist interested in consumers’ problems.
 
