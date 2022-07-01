@@ -33,7 +33,7 @@ Spring 2022 (Ph.D., Prof. <a href= "https://sites.google.com/view/yingjiezhang/h
 Spring 2022 (Ph.D., Prof. <a href= "https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=xingli">Xing Li</a>)<br>
 <br>
 
-<small>Introduction: Collabrating with <a href = "https://siyiyu.com">Siyi Yu</a>, we designed some problem sets for this course, which cover basic econometrics and its applications in quantative marketing. We might provide the problem sets and their solutions later on this web page. Stay tuned!</small>
+<small>Introduction: Collaborating with <a href = "https://siyiyu.com">Siyi Yu</a>, we designed some problem sets for this course, which cover basic econometrics and its applications in quantative marketing. We might provide the problem sets and their solutions later on this web page. Stay tuned!</small>
 </p>
  
 
