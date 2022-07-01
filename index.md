@@ -1,14 +1,6 @@
 ---
 layout: default
----
-
-<table> 
-  <tr>
-  <th><a href="./assets/files/CV.pdf">CV</a></th>
-  <th></th>
-  </tr>
-  </table>
-  
+---  
  
  <ul>
  <li><a href="./">Home</a></li>
