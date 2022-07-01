@@ -5,7 +5,7 @@ layout: default
  <ul>
  <li><a href="./">Home</a></li>
  <li><a href="./assets/files/CV.pdf">CV</a></li>
- <li><a href="./teaching.md">Teaching</a></li>
+ <li><a href="./teaching.html">Teaching</a></li>
  <li><a href="https://siyiyu.com">Partner</a></li>
  </ul>
 
