@@ -4,9 +4,9 @@ layout: default
 
 <table> 
   <tr>
-  <th> [home](./) </th>
-  <th> [CV](./assets/files/CV.pdf) </th>
-  <th> [Partner](https://siyiyu.com) </th>
+  <th><a href="./">Home</a></th>
+  <th><a href="./assets/files/CV.pdf">CV</a></th>
+  <th><a href="https://siyiyu.com">Partner</a></th>
   </tr>
   </table>
 
@@ -17,4 +17,4 @@ The building conceptual framework of my research, which might leverage lab /quas
 
 The research that interests me most leverages data to explore consumers and their behavior under different environmental and marketing stimulus, especially in the digital world. 
 
-I'm fortunate to be advised by Professor [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen),[Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home) and [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu). Prior to GSM, I graduated from [Central University of Finance and Economics](http://bs.cufe.edu.cn/index.htm) with a B.A. in Management, where I got lots of inspiration from Professor [Yin Xu](http://bs.cufe.edu.cn/info/1061/1941.htm) and [Luping Sun](https://www.researchgate.net/profile/Luping-Sun).
+I'm fortunate to be advised by Professor [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen) ,  [Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home) and [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu). Prior to GSM, I graduated from [Central University of Finance and Economics](http://bs.cufe.edu.cn/index.htm) with a B.A. in Management.
