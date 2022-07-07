@@ -11,7 +11,7 @@ layout: default
 
 I would like to describe my way in the coming years as a PhD candidate to data and behavioral scientist interested in consumers’ problems.
 
-The building conceptual framework of my research, which might leverage lab /quasi-experiment setting or observational data, would be behavioral principles. And the core technical foundations would be applied econometrics and advanced data analysis including unstructured ones. 
+The building conceptual framework of my research, which might leverage lab /field-experiment setting or observational data, would be behavioral principles. And the core technical foundations would be applied econometrics and advanced data analysis including unstructured ones. 
 
 The research that interests me most leverages data to explore consumers and their behavior under different environmental and marketing stimulus, especially in the digital world. 
 
