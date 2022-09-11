@@ -13,14 +13,14 @@ layout: default
 
 <br>
 
-<div>
-<h2>Selected Work in Progress</h2>
+
+<h4>Selected Work in Progress</h4>
 <br>
  
 <ins>**Pirated Foes or Creative Friends? Effects of TikTok Derivative Works on Streaming Services with A Natural Experiment**</ins> <br>
-_Guangxin Yang, Yingjie Zhang, Hongju Liu_
+_Guangxin Yang, Yingjie Zhang, Hongju Liu_ <br>
   
-In Preperation for Submission
+In Preperation for Submission<br>
   
 <ins>Abstract:</ins> The widespread availability of digitalized contents and video editing tools has made it possible for ordinary users to generate clips based on existing video works. 
   In this research, we leverage an exogenous boycott event and the quasi-experiment design to estimate causal effects of such derivative works from TikTok on demand of original contents in the context of TV show viewership at streaming platforms. 
@@ -31,4 +31,3 @@ In Preperation for Submission
   
   
 
-</div>
