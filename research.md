@@ -7,7 +7,7 @@ layout: default
  <li><a href="./assets/files/CV.pdf">CV</a></li>
  <li><a href="./research.html">Research</a></li>
  <li><a href="./teaching.html">Teaching</a></li>
- <li><a href="https://siyiyu.com">Partner</a></li>
+ <li><a href="https://siyiyu.com">Life-time Collaborator</a></li>
  <li><a href="https://sites.google.com/view/quantmkt/home">MEE Group</a></li>
  </ul>
 
