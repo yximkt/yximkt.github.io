@@ -11,11 +11,10 @@ layout: default
  <li><a href="https://sites.google.com/view/quantmkt/home">MEE Group</a></li>
  </ul>
 
-<!--
+
 <div>
-<h2>Find Something Different.</h2>
-<br>
--->
+<h2>Find Something Different.</h2><br/>
+</div>
 
 
 <h4>Selected Work in Progress</h4> <br/>
