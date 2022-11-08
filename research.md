@@ -17,7 +17,7 @@ layout: default
 
 
 <h4>Selected Work in Progress</h4> <br>
-<ins>**Pirated Foes or Creative Friends? Effects of TikTok Derivative Works on Streaming Services with A Natural Experiment**</ins> <br>
+<ins> **Pirated Foes or Creative Friends? Effects of TikTok Derivative Works on Streaming Services with A Natural Experiment** </ins> <br/>
 _Guangxin Yang, Yingjie Zhang, Hongju Liu_ <br>
   
 In Preparation for Constructive Feedbacks<br>
@@ -28,7 +28,7 @@ watching due to their extreme lengths. These empirical findings highlight the ad
  <br>
  
  <h4>Publications</h4> <br>
-**<ins>To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)</ins>** <br>
+<ins> **To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)** </ins><br/>
 _Guangxin Yang, Qiaowei Shen_ <br>
 
 Journal of Management Science(《管理科学》)<br>
