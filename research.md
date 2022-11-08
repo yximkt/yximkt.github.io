@@ -25,8 +25,10 @@ In Preparation for Constructive Feedbacks<br>
 <ins>Abstract:</ins> The widespread availability of digitalized contents and video editing tools has made it possible for ordinary users to generate derivative clips based on existing video works. In this research, we leverage an exogenous boycott event and the quasi-experiment design to estimate causal effects of such derivative works from TikTok on demand of original TV show viewership at streaming platforms. Combing data from both platforms, we find evidence for our identification strategy and estimate that derivative clips on TikTok averagely bring about 3% volume for video streaming platforms. Further mechanism analysis suggests the positive advertising influences may come from coexistence of both reminding and informative effects by such user-generated clips. Nevertheless, the advertising effects are limited by time cost incurred from complete consumption of original TV dramas, though viewers might have already been induced to search them on the streaming platform but then give up 
 watching due to their extreme lengths. These empirical findings highlight the advertising effects of derivative works and directly respond to both managerial practice or legal debates in this industry by showing potential benefits of strategically providing ordinary users with certain original contents to edit derivative clips.
  
+ <br>
+ 
  <h4>Publications</h4> <br>
-<ins>**To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)**</ins> <br>
+**<ins>To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)</ins>** <br>
 _Guangxin Yang, Qiaowei Shen_ <br>
 
 Journal of Management Science(《管理科学》)<br>
