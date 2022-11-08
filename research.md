@@ -11,12 +11,15 @@ layout: default
  <li><a href="https://sites.google.com/view/quantmkt/home">MEE Group</a></li>
  </ul>
 
+<!--
 <div>
 <h2>Find Something Different.</h2>
 <br>
+-->
 
-
+<!--
 <h4>Selected Work in Progress</h4> <br>
+-->
 <ins> **Pirated Foes or Creative Friends? Effects of TikTok Derivative Works on Streaming Services with A Natural Experiment** </ins> <br/>
 _Guangxin Yang, Yingjie Zhang, Hongju Liu_ <br>
   
@@ -26,8 +29,9 @@ In Preparation for Constructive Feedbacks<br>
 watching due to their extreme lengths. These empirical findings highlight the advertising effects of derivative works and directly respond to both managerial practice or legal debates in this industry by showing potential benefits of strategically providing ordinary users with certain original contents to edit derivative clips.
  
  <br>
- 
+ <!--
  <h4>Publications</h4> <br>
+-->
 <ins> **To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)** </ins><br/>
 _Guangxin Yang, Qiaowei Shen_ <br>
 
