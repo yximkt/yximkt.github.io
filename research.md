@@ -33,7 +33,7 @@ watching due to their extreme lengths. These empirical findings highlight the ad
  <h4>Publications</h4> <br/>
 
  
-<ins> **To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)** </ins><br/>
+<ins> **[To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JCJJ202204002&uniplatform=NZKPT&v=MCMAwCSlCzbwAa1gXclvdpRsPggWuMdLPpjFr86QFfJJmoVnxbQR70nR62ww3GjL)** </ins><br/>
 _**Guangxin Yang**, Qiaowei Shen_ <br>
 
 **Journal of Management Science(《管理科学》)**<br>
