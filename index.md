@@ -19,6 +19,3 @@ The building conceptual framework of my research, which might leverage lab /fiel
 The research that interests me most leverages data to explore consumers and their content-generating behavior under different environmental and marketing stimulus, especially in the digital world. 
 
 I'm fortunate to be advised by Professor [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen) ,  [Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home) and [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu). Prior to GSM, I graduated from [Central University of Finance and Economics](http://bs.cufe.edu.cn/index.htm) with a B.A. in Management.
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyximkt%2Fyximkt.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
