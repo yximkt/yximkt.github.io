@@ -13,7 +13,7 @@ layout: default
 
 
 <div>
-<h2>Find Something Different.</h2><br/>
+<h2>Sense and Sensibility.</h2><br/>
 </div>
 
 
