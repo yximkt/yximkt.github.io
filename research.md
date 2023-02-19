@@ -20,13 +20,14 @@ layout: default
 <h4>Selected Work in Progress</h4> <br/>
 
 
-<ins> **Pirated Foes or Creative Friends? Effects of TikTok Derivative Works on Streaming Services with A Natural Experiment** </ins> <br/>
+<ins> **Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services** </ins> <br/>
 _**Guangxin Yang**, Yingjie Zhang, Hongju Liu_ <br>
   
-In Preparation for Constructive Feedbacks<br>
-  
-**<ins>Abstract:</ins>** The widespread availability of digitalized contents and video editing tools has made it possible for ordinary users to generate derivative clips based on existing video works. In this research, we leverage an exogenous boycott event and the quasi-experiment design to estimate causal effects of such derivative works from TikTok on demand of original TV show viewership at streaming platforms. Combing data from both platforms, we find evidence for our identification strategy and estimate that derivative clips on TikTok averagely bring about 3% volume for video streaming platforms. Further mechanism analysis suggests the positive advertising influences may come from coexistence of both reminding and informative effects by such user-generated clips. Nevertheless, the advertising effects are limited by time cost incurred from complete consumption of original TV dramas, though viewers might have already been induced to search them on the streaming platform but then give up 
-watching due to their extreme lengths. These empirical findings highlight the advertising effects of derivative works and directly respond to both managerial practice or legal debates in this industry by showing potential benefits of strategically providing ordinary users with certain original contents to edit derivative clips.
+Revise and Resubmit at Marketing Science<br>
+
+- JMS China Best Student Paper(2nd Award, 3/110)
+
+**<ins>Abstract:</ins>** Short-form video-sharing platforms have seen phenomenal growth in recent years. One particular type of video that can often go viral on such platforms is condensed clips derived from existing full-length videos. This new form of user-generated derivative content has been strongly criticized by the traditional entertainment industry because it may infringe copyright owners' exclusive rights and steal viewers from original works. Little is known, however, regarding the true relationship between the two. Our identification strategy leveraged an exogenous boycott event in April 2021 that forced Chinese TikTok to remove condensed clips more proactively. By estimating short-form condensed clips’ causal effect on the viewership of original TV series on a leading streaming platform, we determined that their removal had reduced the demand for corresponding full-length original works by approximately 3%, which implies that condensed clips serve as friends, rather than foes, of streaming services. Further analyses suggested that the positive spillover effects came from the fact that condensed clips could enhance the visibility of original works. Moreover, original TV series could expect stronger spillover effects if they are inherently more attractive (e.g., of higher quality or having a more fascinating storyline). Our results offer rich managerial and policy insights.
  
  <br>
 
