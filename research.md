@@ -26,7 +26,7 @@ _**Guangxin Yang**, Yingjie Zhang, Hongju Liu_ <br>
 Revise & Resubmit at _Marketing Science_ <br>
 
 - JMS China Best Student Paper(2nd Award, 3/110) <br>
-
+<br>
 **<ins>Abstract:</ins>** Short-form video-sharing platforms have seen phenomenal growth in recent years. One particular type of video that can often go viral on such platforms is condensed clips derived from existing full-length videos. This new form of user-generated derivative content has been strongly criticized by the traditional entertainment industry because it may infringe copyright owners' exclusive rights and steal viewers from original works. Little is known, however, regarding the true relationship between the two. Our identification strategy leveraged an exogenous boycott event in April 2021 that forced Chinese TikTok to remove condensed clips more proactively. By estimating short-form condensed clips’ causal effect on the viewership of original TV series on a leading streaming platform, we determined that their removal had reduced the demand for corresponding full-length original works by approximately 3%, which implies that condensed clips serve as friends, rather than foes, of streaming services. Further analyses suggested that the positive spillover effects came from the fact that condensed clips could enhance the visibility of original works. Moreover, original TV series could expect stronger spillover effects if they are inherently more attractive (e.g., of higher quality or having a more fascinating storyline). Our results offer rich managerial and policy insights.
  
  <br>
