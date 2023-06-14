@@ -17,11 +17,10 @@ layout: default
 </div>
 
 
-<h4>Selected Work in Progress</h4> <br/>
+<h4>Selected Work in Progress</h4> 
 
 <ins> **Too Costly or to Gain to Be Nice: A Field Experiment on Charitable Crowdfunding** </ins> <br/>
 _**Guangxin Yang**, Qiaowei Shen_ <br>
-  
 In preperation for Manuscript <br>
 
 **<ins>Abstract:</ins>** Existing psychological literature in prosocial domain suggests past moral behavior sometimes lead people to do more of the same(consistency-seeking), while sometimes it literates people to do the opposite(licensing) in lab settings. We reconcile this debate by a large-scale field experiment on charitable crowdfunding. The real-world study finds the existence of both consistency-seeking and licensing phenomena, with different types(amount VS. frequency) of prior information being primed respectively. Further mechanism analysis suggests that such prior moral information works as a peripheral cue for decisions on the next prosocial behavior, accelerating our decision process. Accordingly, the heterogeneous treatment effects hint that amount information activates the prevention focus, whereas frequency information activates the promotion focus.  Given the large heterogeneity of the population, we develop a personalized targeting policy that allocates the optimal treatment to each potential donator and show that it leads to 6% improvement in donation ratio with the status-qua policy. Our results shed lights on both psychological mechanisms in charitable research and managerial practice for such crowdfunding platforms.
