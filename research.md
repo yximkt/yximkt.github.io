@@ -20,7 +20,7 @@ layout: default
 <h3>Selected Work in Progress</h3> <br/>
 
 <ins> **Too Costly or To Gain To Be Nice: A Field Experiment on Charitable Crowdfunding** </ins> <br/>
-_**Guangxin Yang**, Qiaowei Shen_ <br>
+_**Guangxin Yang**, [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen)_ <br>
 Preliminary Research Waiting for Feedbacks <br>
 
 **<ins>Abstract:</ins>** Existing psychological literature in prosocial domain suggests previous moral behavior sometimes leads people to do more of the same, while sometimes it liberates people to do the opposite in lab settings. We reconcile this debate by providing different types of prior information and conducting a large-scale field experiment on charitable crowdfunding. The real-world study finds the existence of both effects similar to consistency-seeking and licensing phenomena, with frequency VS. amount information of prior moral behavior being primed respectively. Further mechanism analysis suggests that such prior moral information works as a decent peripheral cue for opt-put donators, accelerating their decision processes of not donating. Given the large heterogeneity of the population, we finally develop a personalized targeting policy that allocates the optimal treatment to each potential donator and show that it leads to sizable improvement in donation ratio with the status-qua policy. Our results shed lights on both psychological mechanisms in charitable research and managerial practice for such crowdfunding platforms.
@@ -29,7 +29,7 @@ Preliminary Research Waiting for Feedbacks <br>
 
 
 <ins> **Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services** </ins> <br/>
-_**Guangxin Yang**, Yingjie Zhang, Hongju Liu_ <br>
+_**Guangxin Yang**, [Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home), [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu)_ <br>
   
 Revise & Resubmit at _Marketing Science_ <br>
 
@@ -44,7 +44,7 @@ Revise & Resubmit at _Marketing Science_ <br>
 
  
 <ins> **[To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JCJJ202204002&uniplatform=NZKPT&v=MCMAwCSlCzbwAa1gXclvdpRsPggWuMdLPpjFr86QFfJJmoVnxbQR70nR62ww3GjL)** </ins><br/>
-_**Guangxin Yang**, Qiaowei Shen_ <br>
+_**Guangxin Yang**, [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen)_ <br>
 
 **Journal of Management Science(《管理科学》)**<br>
 Presentations: _JMS&AOM China Anual Meeting_<br>
