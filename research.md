@@ -41,7 +41,7 @@ Under 2nd Round Review at _Marketing Science_ <br>
 
 
   <ins> **Hedging by Giving: Spiritual Insurance and Religious Donations** </ins> <br/>
-  _[Dalin Sheng](https://www.dalinsheng.com),[Yu Zhang](http://www.yu-zhang.net),[Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/),**Guangxin Yang** <br>
+  _[Dalin Sheng](https://www.dalinsheng.com),[Yu Zhang](http://www.yu-zhang.net),[Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/),**Guangxin Yang**_ <br>
   
 
 **<ins>Abstract:</ins>** We analyze donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that higher income uncertainty predicts more donations, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a “spiritual insurance” channel, whereby donors act as if they believe that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases, suggesting that the “spiritual insurance” channel can be influential for donation behaviors and the insurance market.
