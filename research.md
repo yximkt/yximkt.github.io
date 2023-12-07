@@ -56,7 +56,7 @@ _[Dalin Sheng](https://www.dalinsheng.com), [Yu Zhang](http://www.yu-zhang.net),
 <ins> **[To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry(In Chinese,2022)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JCJJ202204002&uniplatform=NZKPT&v=MCMAwCSlCzbwAa1gXclvdpRsPggWuMdLPpjFr86QFfJJmoVnxbQR70nR62ww3GjL)** </ins><br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen)_ <br>
 
-**Journal of Management Science(《管理科学》)**<br>
+**Journal of Management Science(《管理科学》, Lead Article)**<br>
 Presentations: _JMS&AOM China Anual Meeting_<br>
   
 **<ins>Intro:</ins>** This paper examines spillover effects of new product launches on existing within-category VS. cross-category products in the green evolution of an industry. We find both within-category spillover and cross-category cannibalization effects during the green evolution of the
