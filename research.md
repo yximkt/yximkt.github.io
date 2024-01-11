@@ -27,11 +27,11 @@ Preliminary Research Waiting for Feedbacks <br>
 
 
 
-<ins> **Hedging by Giving: Spiritual Insurance and Religious Donations** </ins> <br/>
-_[Dalin Sheng](https://www.dalinsheng.com), [Yu Zhang](http://www.yu-zhang.net), [Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/), [Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), **Guangxin Yang**_ <br>
+<ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations.pdf)** </ins> <br/>
+_[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), [Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),  [Dalin Sheng](https://www.dalinsheng.com), **Guangxin Yang**, [Yu Zhang](http://www.yu-zhang.net)_ <br>
   
 
-**<ins>Abstract:</ins>** We examine donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that individuals with higher income uncertainty are more likely to donate, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a “spiritual insurance” channel, which posits that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases. We additionally conduct a field experiment on 4 million donors in the online donation platform Waterdrop, and find the spiritual insurance narrative significantly increases the likelihood to donate. We contribute by combining archival data and field experiment for the first time to show that the “spiritual insurance” channel can be influential for donation behaviors and the insurance market.
+**<ins>Abstract:</ins>**  We examine donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that individuals with higher income uncertainty are more likely to donate, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a "spiritual insurance" channel, which posits that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases. We additionally analyze a field experiment on 30 million potential donors conducted by a large online donation platform, and find that spiritual insurance narratives significantly increase the likelihood to donate. We contribute by combining archival data and field experiment for the first time to show that the "spiritual insurance" channel can be influential for donation behaviors and the insurance market.
  
  <br>
 
