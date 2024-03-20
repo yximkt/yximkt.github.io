@@ -37,10 +37,10 @@ _[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), [Juanjuan Meng](https:
 
  <h4>Publications</h4> <br/>
 
- <ins> **Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services** </ins> <br/>
+ <ins> **[Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0031)** </ins> <br/>
 _**Guangxin Yang**, [Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home), [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu)_ <br>
   
-Accepted at _Marketing Science_ <br>
+_Marketing Science (Forthcoming)_ <br>
 
 - JMS China Best Student Paper (2nd Award, 3/110), Chongqing, China <br>
 - 2023 ISMS Marketing Science Conference, Miami, FL, USA <br>
