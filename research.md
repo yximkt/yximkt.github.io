@@ -23,13 +23,18 @@ layout: default
 _**Guangxin Yang**, [Qiaowei Shen](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=qshen)_ <br>
 Preliminary Research Waiting for Feedbacks <br>
 
+- 2024 ISMS Marketing Science Conference, Sydney, AUS <br>
+
+
 **<ins>Abstract:</ins>** Existing psychological literature in prosocial domain suggests previous moral behavior sometimes leads people to do more of the same, while sometimes it liberates people to do the opposite in lab settings. We reconcile this debate by providing different types of historical donation information and conducting a large-scale field experiment on a major charitable platform. The real-world study involving millions of participants identifies effects similar to both consistency-seeking and licensing phenomena, with frequency VS. amount information of prior moral behavior being primed, respectively. Further analysis suggests that while amount information primes people the cost to do good deeds, frequency information relates more to possible gains. Additionally, such historical moral information also works as a decent peripheral cue for opt-put donators, accelerating their decision processes of not donating. Given the large heterogeneity of the population, we finally develop a personalized targeting policy based on causal machine learning algorithms. The best policy allocates the optimal treatment to each potential donator and demonstrates a sizable improvement in the donation ratio compared to the status quo. Our results shed lights on both psychological mechanisms in charitable research and managerial practice in platform design.
 
 
 
-<ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations.pdf)** </ins> <br/>
+<ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations (1).pdf)** </ins> <br/>
 _[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), [Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),  [Dalin Sheng](https://www.dalinsheng.com), **Guangxin Yang**, [Yu Zhang](http://www.yu-zhang.net)_ (equal contribution) <br>
   
+Under Review <br>
+
 
 **<ins>Abstract:</ins>**  We examine donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that individuals with higher income uncertainty are more likely to donate, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a "spiritual insurance" channel, which posits that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases. We additionally analyze a field experiment on 30 million potential donors conducted by a large online donation platform, and find that spiritual insurance narratives significantly increase the likelihood to donate. We contribute by combining archival data and field experiment for the first time to show that the "spiritual insurance" channel can be influential for donation behaviors and the insurance market.
  
@@ -37,10 +42,10 @@ _[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), [Juanjuan Meng](https:
 
  <h4>Publications</h4> <br/>
 
- <ins> **[Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0031)** </ins> <br/>
+ <ins> **[Frontiers: Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0031)** </ins> <br/>
 _**Guangxin Yang**, [Yingjie Zhang](https://sites.google.com/view/yingjiezhang/home), [Hongju Liu](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=hliu)_ <br>
   
-_Marketing Science (Forthcoming)_ <br>
+_Marketing Science (2024), 43(3):469-478 (Lead Article)_ <br>
 
 - JMS China Best Student Paper (2nd Award, 3/110), Chongqing, China <br>
 - 2023 ISMS Marketing Science Conference, Miami, FL, USA <br>
