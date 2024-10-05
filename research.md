@@ -30,7 +30,7 @@ Preliminary Research Waiting for Feedbacks <br>
 
 
 
-<ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations (1).pdf)** </ins> <br/>
+<ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations.pdf)** </ins> <br/>
 _[Yu-Jane Liu](https://en.gsm.pku.edu.cn/faculty/yjliu/), [Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),  [Dalin Sheng](https://www.dalinsheng.com), **Guangxin Yang**, [Yu Zhang](http://www.yu-zhang.net)_ (equal contribution) <br>
   
 Under Review <br>
