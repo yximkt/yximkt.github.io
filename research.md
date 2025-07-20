@@ -19,7 +19,7 @@ layout: default
 
 <h3>Selected Work in Progress</h3> <br/>
 
-<ins> **Echoes from the Past: Too Costly or Worth Gaining to Be Nice Again?** </ins> <br/>
+<ins> **[Echoes from the Past: Too Costly or Worth Gaining to Be Nice Again?](https://yximkt.github.io/assets/files/Echoes%20from%20the%20past_CMAU_Guangxin%20Yang_PKU.pdf)** </ins> <br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en)_ <br>
 Preliminary Research Waiting for Feedbacks <br>
 
