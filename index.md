@@ -17,7 +17,7 @@ Welcome! I am Guangxin Yang, a Ph.D. candidate in the quantitative track at Peki
 
 In pursuit of this ambition, I combine rigorous <strong>causal inference</strong>, <strong>machine learning</strong>, <strong>econometric methods</strong> and <strong>insights from behavioral science</strong> to tackle important questions in the domain of digital platforms.
 
-My recent research centers on <strong>charitable contexts</strong> through incentivizing donors and helping patients craft their appeals. Through large-scale field experiments and cutting-edge computational methods (e.g., deep learning, computer vision, etc.), my research explores how <strong>behavioral nudges</strong>, <strong>visual strategies</strong>, and <strong>large language models</strong> can enhance prosocial outcomes on <strong>charitable crowdfunding platforms</strong>.
+My recent research centers on <strong>charitable contexts</strong> through incentivizing donors and helping patients craft their appeals. Through large-scale field experiments and cutting-edge computational methods (e.g., deep learning, computer vision, etc.), I explore how <strong>behavioral nudges</strong>, <strong>visual strategies</strong>, and <strong>large language models</strong> can enhance prosocial outcomes on <strong>charitable crowdfunding platforms</strong>.
 
 My research has been published in <strong><cite class="journal">Marketing Science</cite></strong> and is under revision for other top business journals. 
 
