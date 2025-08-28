@@ -16,19 +16,18 @@ layout: default
 <h2>Sense and Sensibility.</h2><br/>
 </div>
 
-<h3>Job Market Paper</h3> <br/>
+<h3>Job Market Paper</h3> 
 
 <ins> **[Giving with Monetary or Network Capital? Evidence from A Field Experiment](https://yximkt.github.io/assets/files/Echoes%20from%20the%20past_CMAU_Guangxin%20Yang_PKU.pdf)** </ins> <br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en)_ <br>
 
 - 2025 AMA-Sheth Foundation Doctoral Consortium, Ohio, USA <br>
 
-
 **<ins>Abstract:</ins>** Sharing plays a vital role for charities, often seen as a way to leverage one's network capitals. Theoretical evidence suggests that sharing can serve as either a compelling alternative to, or complement for, monetary contributions. We conducted a field experiment to compare the impact of highlighting the donation option versus the sharing option through a behavioral nudge design. The result shows that emphasizing sharing led a measurable substitution of monetary contributions. However, when taking “chain donations” into account, the sharing nudge resulted in  a sizable net increase in total funds raised, highlighting the power of network capitals. Furthermore, we find that there are divergences between motives to respond and effects of responding for people with varied network capitals. People with more within-community (vs. outside-community) friends are more inclined to respond to the nudge. However, the total donation effect increases with the number of outside-community friends but not with within-community friends. Based on these results, we provide targeting insights for fundraisers and the platform. 
 
 
-
- <h3>Publications</h3> <br/>
+ <br/>
+ <h3>Publications</h3> 
 
  <ins> **[Frontiers: Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0031)** </ins> <br/>
 _**Guangxin Yang**, [Yingjie Zhang](https://sites.google.com/view/yingjiezhang), [Hongju Liu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=9LSGbnEAAAAJ)_ <br>
@@ -49,19 +48,23 @@ _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=Fjf
 
 Journal of Management Science (《管理科学》, Lead Article)<br>
 Presentations: _JMS&AOM China Anual Meeting_<br>
-  
-**<ins>Intro:</ins>** This paper examines spillover effects of new product launches on existing within-category VS. cross-category products in the green evolution of an industry. We find both within-category spillover and cross-category cannibalization effects during the green evolution of the
-automobile industry.
+
+<details class="abs">
+  <summary><strong><ins>Intro:</ins></strong></summary>
+  <p>This paper examines spillover effects of new product launches on existing within-category VS. cross-category products in the green evolution of an industry. We find both within-category spillover and cross-category cannibalization effects during the green evolution of the
+automobile industry.</p>
+</details>
 
 
 
 
+</br>
 <h3>Selected Working Projects</h3> <br/>
 
 <ins> **[Hedging by Giving: Spiritual Insurance and Religious Donations](https://yximkt.github.io/assets/files/Hedging_by_giving__spiritual_insurance_and_religious_donations.pdf)** </ins> <br/>
 _[Yu-Jane Liu](https://scholar.google.com/citations?user=g36Q7fAAAAAJ&hl=zh-TW), [Juanjuan Meng](https://sites.google.com/site/juanjuanmeng/),  [Dalin Sheng](https://www.dalinsheng.com), **Guangxin Yang**, [Yu Zhang](http://www.yu-zhang.net)_ (equal contribution) <br>
   
-_Revise & Resubmit at <strong> Journal of Financial and Quantitative Analysis</strong>_ <br>
+_<strong>Revise & Resubmit</strong> at <strong> Journal of Financial and Quantitative Analysis</strong>_ (a top finance journal)<br>
 
 
 **<ins>Abstract:</ins>**  We examine donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that individuals with higher income uncertainty are more likely to donate, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a "spiritual insurance" channel, which posits that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases. We additionally analyze a field experiment on 30 million potential donors conducted by a large online donation platform, and find that spiritual insurance narratives significantly increase the likelihood to donate. We contribute by combining archival data and field experiment for the first time to show that the "spiritual insurance" channel can be influential for donation behaviors and the insurance market.
