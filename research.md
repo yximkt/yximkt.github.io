@@ -27,6 +27,8 @@ _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=Fjf
 
 
  <br/>
+
+ <hr>
  <h3>Publications</h3> <br/>
 
  <ins> **[Frontiers: Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0031)** </ins> <br/>
@@ -46,8 +48,6 @@ _<strong>Marketing Science</strong> (2024), 43(3):469-478 (Lead Article)_ <br>
 
 
 <br/>
-
-<hr>
  
 <ins> **[To Divide or Make the Cake: Role of Market Education from New Launches in the Sustainable Evolution of An Industry (In Chinese,2022)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JCJJ202204002&uniplatform=NZKPT&v=MCMAwCSlCzbwAa1gXclvdpRsPggWuMdLPpjFr86QFfJJmoVnxbQR70nR62ww3GjL)** </ins><br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en)_ <br>
@@ -61,7 +61,7 @@ Presentations: _JMS&AOM China Anual Meeting_
 </details>
 
 
-
+<hr>
 
 <h3>Selected Working Projects</h3> <br/>
 
@@ -74,7 +74,6 @@ _<strong>Revise & Resubmit</strong> at <strong> Journal of Financial and Quantit
   <p>We examine donation behaviors from the perspective of religious beliefs. Using a transaction-level dataset from an Asian economy, we find that individuals with higher income uncertainty are more likely to donate, especially for religious donations, and after negative income uncertainty and health shocks. This pattern is inconsistent with existing explanations of donation, but can be explained by a "spiritual insurance" channel, which posits that giving reduces the probability of the bad state. Indeed, we observe that those who donate to non-local religious organizations reduce their insurance purchases. We additionally analyze a field experiment on 30 million potential donors conducted by a large online donation platform, and find that spiritual insurance narratives significantly increase the likelihood to donate. We contribute by combining archival data and field experiment for the first time to show that the "spiritual insurance" channel can be influential for donation behaviors and the insurance market.</p>
 </details>
 
-<hr>
 <ins> **[Echoes from the Past: Too Costly or Worth Gaining to Be Nice Again?](https://yximkt.github.io/assets/files/Echoes%20from%20the%20past_CMAU_Guangxin%20Yang_PKU.pdf)** </ins> <br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en), Peng Shen_ <br>
 Preliminary Draft <br>
