@@ -28,7 +28,7 @@ layout: default
 Prof. <a href= "https://ron-berman.com/">Ron Berman's</a> <a href = "https://ron-berman.com/cfp/">CFP Website</a>)<br>
 QME <a href="https://www.chicagobooth.edu/research/kilts/events/qme-conference">
 <small></small>
-</p>
+
 
 <p><h4>Google Sheet</h4>
 <a href= "https://docs.google.com/spreadsheets/d/14QC-5jJ651nSW0OY0kb_YxnTZyugxNyz_8wa2KDmKs0/edit?gid=1973394591#gid=1973394591">Job Market Google Sheets</a><br>
@@ -38,7 +38,6 @@ QME <a href="https://www.chicagobooth.edu/research/kilts/events/qme-conference">
 
 <p><h4>Miscellaneous</h4>
 <a href="http://li.dyson.cornell.edu/phdRes.php">PhD Resources in General</a><br>
-</p>
 
 
 </div>
