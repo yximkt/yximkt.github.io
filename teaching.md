@@ -12,11 +12,11 @@ layout: default
  </ul>
 
 <br>
-<br>
 
 <div>
 <h2>Learning by Teaching.</h2>
-
+<br>
+<br>
 
  <h3>Substantive</h3>
 <br>
