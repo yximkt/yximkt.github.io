@@ -28,7 +28,8 @@ layout: default
 Prof. <a href= "https://ron-berman.com/">Ron Berman's</a> <a href = "https://ron-berman.com/cfp/">CFP Website</a>)<br>
 QME <a href="https://www.chicagobooth.edu/research/kilts/events/qme-conference">
 <small></small>
-</a>p>
+</a>
+</p>
 
 
 <p><h3>Google Sheet</h3>
