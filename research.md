@@ -77,7 +77,8 @@ _<strong>Revise & Resubmit</strong> at <strong> Journal of Financial and Quantit
 
 <br/>
 
-<ins> **[Echoes from the Past: Too Costly or Worth Gaining to Be Nice Again?](https://yximkt.github.io/assets/files/Echoes%20from%20the%20past_CMAU_Guangxin%20Yang_PKU.pdf)** </ins> <br/>
+<ins> **[To Give or Not to Give Again: The Paradoxical Effects of Prior Donation
+Information](https://yximkt.github.io/assets/files/Echoes%20from%20the%20past_CMAU_Guangxin%20Yang_PKU.pdf)** </ins> <br/>
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en), Peng Shen_ <br>
 Preliminary Draft <br>
 <details class="abs">
