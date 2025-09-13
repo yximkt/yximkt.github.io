@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: clamp(900px, 92vw, 1280px);
-  padding-left: 24px;
-  padding-right: 24px;
+  max-width: 1200px;   
 }
 
-@media (min-width: 1600px) {
-  .wrapper { max-width: 1400px; }
+
+@media (min-width: 1440px) {
+  .wrapper { max-width: 1320px; }
 }
+
