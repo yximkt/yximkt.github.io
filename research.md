@@ -14,6 +14,8 @@ layout: default
 <br>
 <div>
 <h2>Sense and Sensibility.</h2><br/>
+<h2>It is insight, not count, that stands the test of time.</h2><br/>
+
 </div>
 
 <h3>Job Market Paper</h3> <br/>
