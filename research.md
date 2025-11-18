@@ -24,8 +24,8 @@ layout: default
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en)_ <br>
 
 - 2025 AMA-Sheth Foundation Doctoral Consortium, Ohio, USA <br>
-- JMS China 2025 Best Student Paper(1st Award, 1/110), Chengdu, China <br>
-- Invited Presentations: XMU, SZU, RUC, UIBE, SUFE, PKU Behavarioal Economics Brownbag, PKU Quant Marketing Seminar<br>
+- JMS China Best Student Paper(1st Award, 1/110), Chengdu, China <br>
+- Invited Presentations: XMU, SZU, RUC, UIBE, SUFE, PKU Behavarioal Economics Brownbag, PKU Quant Marketing Seminar <br><br/>
 
 
 **<ins>Abstract:</ins>** Sharing plays a vital role for charities, often seen as a way to leverage one's network capitals. Theoretical evidence suggests that sharing can serve as either a compelling alternative to, or complement for, monetary contributions. We conducted a field experiment to compare the impact of highlighting the donation option versus the sharing option through a behavioral nudge design. The result shows that emphasizing sharing led a measurable substitution of monetary contributions. However, when taking “chain donations” into account, the sharing nudge resulted in  a sizable net increase in total funds raised, highlighting the power of network capitals. Furthermore, we find that there are divergences between motives to respond and effects of responding for people with varied network capitals. People with more within-community (vs. outside-community) friends are more inclined to respond to the nudge. However, the total donation effect increases with the number of outside-community friends but not with within-community friends. Based on these results, we provide targeting insights for fundraisers and the platform. 
