@@ -24,7 +24,7 @@ layout: default
 _**Guangxin Yang**, [Qiaowei Shen](https://scholar.google.com/citations?user=FjflKA4AAAAJ&hl=en)_ <br>
 
 - 2025 AMA-Sheth Foundation Doctoral Consortium, Ohio, USA <br>
-- JMS China 2025 Best Student Paper, Chengdu, China <br>
+- JMS China 2025 Best Student Paper(1st Award, 1/110), Chengdu, China <br>
 - Invited Presentations: XMU, SZU, RUC, UIBE, SUFE, PKU Behavarioal Economics Brownbag, PKU Quant Marketing Seminar<br>
 
 
