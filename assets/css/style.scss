@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme | default: 'jekyll-theme-minimal' }}";
 
 .wrapper {
   max-width: 1200px;   
@@ -11,4 +11,3 @@
 @media (min-width: 1440px) {
   .wrapper { max-width: 1320px; }
 }
-

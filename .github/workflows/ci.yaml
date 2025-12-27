@@ -1,18 +1,20 @@
+name: Build
+
 on:
   push:
   pull_request:
     types: [opened, synchronize]
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: script/cibuild
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          ruby-version: "3.1"
           bundler-cache: true
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
