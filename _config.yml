@@ -3,6 +3,8 @@ logo: /assets/img/Alan.png
 description: Alan's Web Page
 show_downloads: true
 google_analytics: UA-233077999-1
+url: https://yximkt.github.io
+repository: yximkt/yximkt.github.io
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
